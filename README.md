@@ -1,2 +1,4 @@
 # Car_Black_Box
-Developed core functionalities of a car black-box using a PIC-based microcontroller, including schematics, peripheral integration based on datasheets, and interrupt handling
+Implemented continuous monitoring and logging of events, storing data in EEPROM for post-crash
+investigation, and designed the system to be extensible to other types of vehicles.
+Enabled post-crash data analysis by storing up to 10 events in EEPROM, improving incident investigations.
