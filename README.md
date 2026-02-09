@@ -104,6 +104,8 @@ After successful password authentication, the following options are available:
 * Secure authentication logic
 
 # Project Structure
+
+```
 ├── main.c
 ├── car_black_box_def.c
 ├── car_black_box.h
@@ -113,6 +115,7 @@ After successful password authentication, the following options are available:
 ├── ds1307.c / ds1307.h
 ├── i2c.c / i2c.h
 ├── timers.c / timers.h
+```
 
 # How to Run
 1. Open the project in **MPLAB X**
