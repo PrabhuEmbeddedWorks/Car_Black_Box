@@ -103,7 +103,7 @@ After successful password authentication, the following options are available:
 * Finite State Machine (FSM)
 * Secure authentication logic
 
-## Project Structure
+# Project Structure
 ├── main.c
 ├── car_black_box_def.c
 ├── car_black_box.h
@@ -118,10 +118,9 @@ After successful password authentication, the following options are available:
 1. Open the project in **MPLAB X**
 2. Compile using **XC8**
 3. Load the hex file into **PICSimLab**
-4. Select **PICGenios board**
-5. Run the simulation and interact using buttons and potentiometer
+4. Run the simulation and interact using buttons and potentiometer
 
-##Applications
+# Applications
 * Automotive event data recorders
 * Embedded systems learning projects
 * EEPROM logging demonstrations
