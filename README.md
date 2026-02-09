@@ -1,6 +1,8 @@
 # Car Black Box Implementation
 
-YOUTUBE LINK: https://youtu.be/X9iID5KMKsU
+# Project Demonstration Video
+A complete working simulation of this project is available on YouTube:
+🔗 https://youtu.be/X9iID5KMKsU
 
 # Overview
 This project implements a **Car Black Box system** using the **PIC16F877A microcontroller**, simulated on **PICSimLab**.
